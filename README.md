@@ -12,8 +12,11 @@ You can do it with docker command:
 
 or simply create an DB with parameters like those: (feel free to configure them at your wish in ** application.properties ** file)
 > url = localhost:3306/todos
+
 > username = todos-user
+
 > password = dummytodos
+
 > DB = todos
 
 # Techstack
